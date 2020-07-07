@@ -44,4 +44,6 @@
         </plugins>
     </build>
 
+    <scm><developerConnection>scm:git:git@github.com:Zelgoth/SF-petclinic.git</developerConnection></scm>
+
 </project>
